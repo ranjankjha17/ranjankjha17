@@ -1,5 +1,5 @@
 ### Hi there I'm Ranjan👋
-####I'm a self-taught Software Developer based in India. I'm passionate about learning new things, especially when it comes to JavaScript based technologies
+I'm a self-taught Software Developer based in India. I'm passionate about learning new things, especially when it comes to JavaScript based technologies
 
 <!--
 **ranjankjha17/ranjankjha17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
