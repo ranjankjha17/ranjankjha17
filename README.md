@@ -1,7 +1,15 @@
 ### Hi there I'm Ranjan👋
-I'm a self-taught Software Developer based in India. I'm passionate about learning new things, especially when it comes to JavaScript based technologies
+#### I'm a self-taught Software Developer based in India. I'm passionate about learning new things, especially when it comes to JavaScript based technologies
+Talking about personal stuffs:
 
-<!--
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: I'm currently learning Solidity.
+
+- :zap: Ask me anything related to HTML, CSS and Javascript. I am happy to help.
+
+- :mailbox:How to reach me: ranjankjha17@gmail.com
+- <!--
 **ranjankjha17/ranjankjha17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
